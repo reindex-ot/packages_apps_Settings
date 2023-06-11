@@ -61,8 +61,8 @@
   <!-- YAAP Version -->
   <string name="yaap_version">YAAP ビルド</string>
   <!-- QSTile requires unlocking before being accessible -->
-  <string name="qstile_requires_unlocking_title">セキュアQSタイルを操作する場合はロック解除を要求</string>
-  <string name="qstile_requires_unlocking_summary">以下のQSタイルは、ロック画面からアクセスをする前にロックの解除が必要になります:\n機内モード、データ通信、Bluetooth、データセーバー、バッテリーセーバー、仕事用モード、画面回転、NFC、Wi-Fi テザリング、USB テザリング、位置情報</string>
+  <string name="qstile_requires_unlocking_title">セキュア QS タイルを操作する場合はロック解除を要求</string>
+  <string name="qstile_requires_unlocking_summary">以下の QS タイルは、ロック画面からアクセスをする前にロックの解除が必要になります:\n機内モード、データ通信、Bluetooth、データセーバー、バッテリーセーバー、仕事用モード、画面回転、NFC、Wi-Fi テザリング、USB テザリング、位置情報</string>
   <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
   <string name="duration_less_than_one_minute">1 分以内</string>
   <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->
